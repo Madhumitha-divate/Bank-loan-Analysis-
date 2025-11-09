@@ -3,11 +3,13 @@ Tools Used: My SQL,Power BI, Power Query
 Domain: Finance
 Skills: Data Cleaning, SQL Queries, DAX, Data Modelling, Dashboarding
 
-🔹 Problem Statement
-The bank wants to analyse its loan portfolio to understand loan performance across regions, time, home-ownership, purpose, and customer risk factors such as interest rate and DTI.
-The raw loan data was unstructured and needed cleaning, modelling, and dashboarding to generate useful business insights.
 
-🔹 Steps Followed
+🔹 Problem Statement:
+        The bank wants to analyse its loan portfolio to understand loan performance across regions, time, home-ownership, purpose, and customer risk factors such as interest rate and DTI.
+The raw loan data was unstructured and needed cleaning, modelling, and dashboarding to generate useful business   insights.
+
+ 
+🔹 Steps Followed:
 
 1. Explored raw dataset and understood domain metrics (loan status, interest rate, DTI).
 
@@ -23,7 +25,8 @@ The raw loan data was unstructured and needed cleaning, modelling, and dashboard
 
 7. Added interactive features like navigation buttons, slicers, and field parameters.
 
-🔹 Key Insights
+
+🔹 Key Insights:
 
 Loan applications and funded amount vary significantly across states and months.
 
@@ -35,6 +38,7 @@ Home-ownership status influences loan performance.
 
 The interactive dashboard allows stakeholders to filter by region, purpose, home-ownership, and time for deeper insights.
 
-🔹 Outcome
-An interactive, user-friendly Power BI dashboard helping the bank identify risk patterns, customer segments,
-and performance trends to support data-driven decisions.
+
+🔹 Outcome:
+An interactive, user-friendly Power BI dashboard helping the bank identify risk patterns, 
+customer segments,and performance trends to support data-driven decisions.

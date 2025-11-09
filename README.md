@@ -12,15 +12,8 @@ Using My SQL for data cleaning & KPI extraction, and Power BI for dashboard deve
 The bank receives thousands of loan applications every month, but the data is unstructured and spread across multiple fields.
 The goal is to:
 
-Analyse loan performance over time
-
-Identify high-risk loans
-
-Check the impact of interest rate, DTI, home ownership, and loan purpose
-
-Compare regional performance
-
-Provide an interactive Power BI dashboard for business users
+Analyse loan performance over time,Identify high-risk loansCheck the impact of interest rate, DTI, home ownership,
+and loan purpose,Compare regional performance,Provide an interactive Power BI dashboard for business users
 
 
 Tools & Technologies:
@@ -30,8 +23,6 @@ SQL Server – Data Cleaning, KPI Extraction
 Power BI – Data Modelling, DAX, Dashboard Creation
 
 Power Query – Data Transformation
-
-MS Excel – Initial review (optional)
 
 
  Steps Taken:
@@ -45,42 +36,20 @@ Understood finance domain metrics (Loan Status, DTI, Interest Rate, Loan Purpose
 
 2. Data Cleaning in SQL
 
-Removed duplicates and nulls
-
-Standardized date formats
-
-Cleaned loan status labels
-
+Removed duplicates and nulls, Standardized date formats, Cleaned loan status labels
 Verified numerical fields (DTI, interest rate, funded_amount)
-
 
 3. KPI Extraction
 
 SQL queries used to calculate:
 
-Total Loan Applications
-
-Total Funded Amount
-
-Average Interest Rate
-
-Average DTI
-
-Good vs Bad Loan Ratio
-
-Loan Purpose Summary
-
-Regional Loan Distribution
-
+Total Loan Applications, Total Funded Amount, Average Interest Rate,Average DTI
+Good vs Bad Loan Ratio, Loan Purpose Summary, Regional Loan Distribution
 
 4.Power BI Data Modelling
 
-Connected SQL database to Power BI
-
-Created Date Table using DAX
-
+Connected SQL database to Power BI, Created Date Table using DAX
 Built relationships between fact and dimension tables
-
 Added calculated columns & measures
 
 
@@ -103,16 +72,9 @@ Good vs Bad Loan Analysis
 Filters/Slicers: State, Purpose, Ownership, Loan Status
 
 
-7. Interactivity Enhancements
+6. Interactivity Enhancements
 
-Navigation buttons
-
-Drill-throughs
-
-Field parameters
-
-Slicer sync across pages
-
+Navigation buttons, Drill-throughs, Field parameters, Slicer sync across pages
 
 Key Insights:
 
